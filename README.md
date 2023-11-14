@@ -1,6 +1,6 @@
 # Movie Recommender
 
-***Simulation link: https://raviranjan940.streamlit.app/***
+***Simulation link: https://anandkumarprajap.streamlit.app/***
 
 ## Overview
 This is a NLP based project which aims to recommend the movies based on content.
