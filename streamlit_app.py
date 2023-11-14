@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title(":red[Movie Recommender] [:red[$$\\infin$$]](https://github.com/raviranjan940/movie-recommender-system) ", )
+st.title(":red[Movie Recommender] [:red[$$\\infin$$]](https://github.com/anandkumarprajap/movie-recommender-system) ", )
 
 ## Defining the parameters
 model_zip_link = "https://storage.googleapis.com/cushare-785.appspot.com/captain/2023-05-22%2012%3A49%3A43.509265%20Movie%20recommender%20pkl%20file/Result_EMREdl3.zip"
